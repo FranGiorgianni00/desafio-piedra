@@ -1,8 +1,9 @@
-{
+ {
   "name": "piedra-papel-o-tijera",
   "version": "1.0.0",
   "description": "Juego de Piedra, Papel o Tijera",
   "main": "index.js",
+  "homepage": "https://FranGiorgianni00.github.io/desafio-piedra",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",

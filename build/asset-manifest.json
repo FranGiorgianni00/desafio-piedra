@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/desafio-piedra/static/js/main.067aae6d.chunk.js",
+    "main.js.map": "/desafio-piedra/static/js/main.067aae6d.chunk.js.map",
+    "runtime-main.js": "/desafio-piedra/static/js/runtime-main.182c4feb.js",
+    "runtime-main.js.map": "/desafio-piedra/static/js/runtime-main.182c4feb.js.map",
+    "static/js/2.47f9f52e.chunk.js": "/desafio-piedra/static/js/2.47f9f52e.chunk.js",
+    "static/js/2.47f9f52e.chunk.js.map": "/desafio-piedra/static/js/2.47f9f52e.chunk.js.map",
+    "index.html": "/desafio-piedra/index.html",
+    "static/js/2.47f9f52e.chunk.js.LICENSE.txt": "/desafio-piedra/static/js/2.47f9f52e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.182c4feb.js",
+    "static/js/2.47f9f52e.chunk.js",
+    "static/js/main.067aae6d.chunk.js"
+  ]
+}
